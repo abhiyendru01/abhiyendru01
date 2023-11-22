@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](abhiyendru.netlify.app)
 
-- 🌱 I’m currently learning **vue.js,mongo DB,mobile App Development**
+- 🧑🏻‍💻 I’m currently learning **vue.js,mongo DB,mobile App Development**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👥 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **anything you offer**
+- 🤝🏻 I’m looking for help with **anything you offer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhiyendru01?tab=projects](https://github.com/abhiyendru01?tab=projects)
+- 🗃️ All of my projects are available at [https://github.com/abhiyendru01?tab=projects](https://github.com/abhiyendru01?tab=projects)
 
-- 📫 How to reach me **rahul.r0644@gmail.com**
+- 📨 Github **rahul.r0644@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
