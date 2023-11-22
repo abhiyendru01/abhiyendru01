@@ -1,6 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Rahul</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/abhiyendru01/abhiyendru01/assets/118946861/012fadc4-6866-49ee-a81f-f76b5de5c837"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiyendru01" alt="abhiyendru01" /></a> </p>
 
@@ -15,7 +14,7 @@
 - 🗃️ All of my projects are available at [https://github.com/abhiyendru01?tab=projects](https://github.com/abhiyendru01?tab=projects)
 
 - 📨 Get In Touch **rahul.r0644@gmail.com**
-
+<img align="right" alt="coding" width="400" src="https://github.com/abhiyendru01/abhiyendru01/assets/118946861/012fadc4-6866-49ee-a81f-f76b5de5c837">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhiyendru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiyendru" height="30" width="40" /></a>
