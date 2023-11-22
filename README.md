@@ -13,7 +13,7 @@
 
 - 🗃️ All of my projects are available at [https://github.com/abhiyendru01?tab=projects](https://github.com/abhiyendru01?tab=projects)
 
-- 📨 Github **rahul.r0644@gmail.com**
+- 📨 Get In Touch **rahul.r0644@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
