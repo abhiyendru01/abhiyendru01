@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Rahul</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/abhiyendru01/abhiyendru01/assets/118946861/012fadc4-6866-49ee-a81f-f76b5de5c837)
-"
+<img align="right" alt="coding" width="400" src="https://github.com/abhiyendru01/abhiyendru01/assets/118946861/012fadc4-6866-49ee-a81f-f76b5de5c837"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiyendru01" alt="abhiyendru01" /></a> </p>
 
