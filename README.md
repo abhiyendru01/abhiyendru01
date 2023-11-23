@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Rahul</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">An adroit web developer from India</h3>
 
 <p align="left"> <a href="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="abhiyendru01" type="gif" /></a> </p>
 
