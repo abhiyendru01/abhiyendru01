@@ -9,11 +9,8 @@
 
 - 👥 I’m looking to collaborate on **open source projects**
 
-- 🤝🏻 I’m looking for help with **anything you offer**
-
 - 🗃️ All of my projects are available at my github repository
 
-- 📨 Get In Touch **rahul.r0644@gmail.com**
 <img align="right" alt="coding" width="400" src="https://github.com/abhiyendru01/abhiyendru01/assets/118946861/012fadc4-6866-49ee-a81f-f76b5de5c837">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
