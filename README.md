@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🙋🏻‍♂️ I'm Rahul</h1>
 <h3 align="center">An adroit web developer from India</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiyendru01" alt="abhiyendru01" /></a> </p>
-<p align="right"> <img src="coder.gif" alt="abhiyendru01" type="giphy" /></a> </p>
 - 🔭 Check out [My Portfolio Website](https://abhiyendru.netlify.app)
 
 - 🧑🏻‍💻 I’m currently learning **vue.js,mongo DB,mobile App Development**
@@ -10,7 +9,7 @@
 
 - 🗃️ All of my projects are available at my github repository
 
-<img align="right" alt="coding" width="400" src="https://github.com/abhiyendru01/abhiyendru01/assets/118946861/012fadc4-6866-49ee-a81f-f76b5de5c837">
+<p align="right"> <img src="coder.gif" height=300 width=450 alt="abhiyendru01" type="giphy" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abhiyendru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiyendru" height="30" width="40" /></a>
