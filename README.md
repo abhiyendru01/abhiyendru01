@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♂️ I'm Rahul</h1>
+<h1 align="center">Hi 🙋🏻‍♂️ I'm RahuL</h1>
 <h3 align="center">An adroit web developer from India</h3>
 
   ![](https://github-profile-trophy.vercel.app/?username=abhiyendru01&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
