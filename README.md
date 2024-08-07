@@ -12,7 +12,7 @@
 
 - 👥 I’m looking to collaborate on **open source projects**
 
-- 🗃️ All of my projects are available at my github repository
+- 🗃️ All of my projects are available in my github repository
 #
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhiyendru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-raj-81a77124b) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhiyendru01) 
 
